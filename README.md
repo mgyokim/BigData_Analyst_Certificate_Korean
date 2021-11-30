@@ -11,7 +11,7 @@
 ### 5. 빅데이터 분석기사 실기 응시환경 체험 ✔
 ### 6. 빅데이터 분석기사 실기예제  ✔
 ### 7. 빅데이터 분석기사 실기 단답형 (필답형) 예상문제 ✔
-### 8. [Pandas Tutorial (판다스 튜토리얼 90문제)](https://www.kaggle.com/mgyokim/pandas-tutorial) ✔
+### 8. Pandas Tutorial (판다스 튜토리얼 90문제) ✔
 #  ◆ 자격소개
 ## 국가기술자격
 ### ● 관련 근거
@@ -103,7 +103,7 @@
 # ◆ 빅데이터 분석기사 실기 튜토리얼(예제)
 ### [Pandas Tutorial (판다스 튜토리얼 90문제)](https://www.kaggle.com/mgyokim/pandas-tutorial) - 해당 링크에 접속 후 "Edit" 클릭하여 사용!
 
-### 도움이 되셨다면, 저장소 ⭐[Star]⭐와 ☑[Kaggle Notebook Upvote]☑ 클릭 부탁드립니다. 
+### 저장소 ⭐[Star]⭐와 ☑[Kaggle Notebook Upvote]☑ 클릭 부탁드립니다. 
 ※ Kaggle의 경우 Upvote가 효력이 있으려면, 본인의 티어가 Contributor 이상이어야 합니다. [Contributor 티어 달성하는 방법](https://mgyo.tistory.com/52?category=877488) ✔
 
 
