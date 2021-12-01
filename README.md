@@ -14,6 +14,7 @@
 ### 8. Pandas Tutorial (판다스 튜토리얼 90문제) ✔
 ### 9. Scikit-learn Tutorial (Scikit-learn 정보) ✔
 ### 10. 빅데이터 분석기사 실기 주요 코드 정리 ✔
+### 11. 빅데이터 분석기사 실기 작업형 제1유형 기본 문제 풀이 ✔
 #  ◆ 자격소개
 ## 국가기술자격
 ### ● 관련 근거
@@ -106,6 +107,7 @@
 ### [Pandas Tutorial (판다스 튜토리얼 90문제)](https://www.kaggle.com/mgyokim/pandas-tutorial) - 해당 링크에 접속 후 "Edit" 클릭하여 사용!
 ### [Scikit-learn Tutorial (Scikit-learn 정보)](https://www.kaggle.com/mgyokim/scikit-learn-tutorial) - 해당 링크에 접속 후 "Edit" 클릭하여 사용!
 ### [빅데이터 분석기사 실기 주요 코드 정리](https://www.kaggle.com/mgyokim/important-code) - 해당 링크에 접속 후 "Edit" 클릭하여 사용!
+### [빅데이터 분석기사 실기 작업형 제1유형 기본 문제 풀이](https://www.kaggle.com/mgyokim/type-1-example-1) - 해당 링크에 접속 후 "Edit" 클릭하여 사용!
 ### 저장소 ⭐[Star]⭐와 ☑[Kaggle Notebook Upvote]☑ 클릭 부탁드립니다. 
 ※ Kaggle의 경우 Upvote가 효력이 있으려면, 본인의 티어가 Contributor 이상이어야 합니다. [Contributor 티어 달성하는 방법](https://mgyo.tistory.com/52?category=877488) ✔
 
