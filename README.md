@@ -118,7 +118,11 @@
 
 
 ### 저장소 ⭐[Star]⭐와 ☑[Kaggle Notebook Upvote]☑ 클릭 부탁드립니다. 
-※ Kaggle의 경우 Upvote가 효력이 있으려면, 본인의 티어가 Contributor 이상이어야 합니다. ✔[Contributor 티어 달성하는 방법](https://mgyo.tistory.com/52?category=877488) ✔
+![git star](https://user-images.githubusercontent.com/66030601/145248197-a569357d-1636-44e0-9ae7-9770a8fc7727.PNG)
+
+### ※ Kaggle의 경우 Upvote가 효력이 있으려면, 본인의 티어가 Contributor 이상이어야 합니다. 
+### ✔[캐글 Contributor 티어 달성하는 방법](https://mgyo.tistory.com/52?category=877488) ✔
+![kaggle upvote](https://user-images.githubusercontent.com/66030601/145247561-a1819199-5090-4412-a0a4-c3015c21c892.png)
 
 ### 참조 : Pandas Tutorial / scikit learn Tutorial  [예제 출처 : ManimData](https://www.datamanim.com/bigbun.html)
 
