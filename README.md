@@ -2,7 +2,9 @@
 ![빅분기가이드](https://user-images.githubusercontent.com/66030601/141610321-52df1d43-9721-4f84-96a9-301fe197e01e.PNG)
 
 # BigData Analyst Certificate Guidelines for Beginners
-
+#
+빅데이터분석기사 소개와, 이론, 실기 준비 및 예제 풀이까지, 빅데이터분석기사 취득 준비자로서 알아두어야 하는 여러 사항을 기록한 저장소 입니다. 
+빅데이터분석기사 취득과정을 문서화 하는 것을 목표로 합니다.
 ## ▶ 목차
 ### 1. 자격소개
 ### 2. 시험주요내용
